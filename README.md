@@ -5,4 +5,5 @@ Podemos roda a versão web, copiando a pasta www do jogo para o diretório web. 
 
 No Release 1.0 encontrará também o apk para que instale diretamente no celular.
 
-
+## Outros jogos aqui
+- https://github.com/ribafs?tab=repositories&q=game&type=&language=&sort=
